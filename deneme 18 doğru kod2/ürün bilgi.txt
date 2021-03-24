@@ -1,0 +1,17 @@
+1-bilgisayarasus:17
+2-bilgisayarapple:15
+3-bilgisayrlg:17
+4-bilgisayarhp:17
+5-telefonapple:10
+6-telefonsamsung:10
+7-telefonlg:14
+8-telefonsony:18
+9-kulaklikapple:11
+10-kulakliksamsung:23
+11-kulakliklg:14
+12-kulakliksony:16
+13-kamerahuwavi:8
+14-kameracanon:26
+15-kameraasus:14
+16-tableapple:12
+17-telefonsamsung:9
